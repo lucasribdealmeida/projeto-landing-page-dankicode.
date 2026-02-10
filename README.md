@@ -14,7 +14,7 @@ Neste projeto, foquei em consolidar conceitos fundamentais:
 * **Organização**: Estruturação de diretórios profissional (pastas para imagens, CSS e fontes).
 
 ## 📸 Demonstração
-![Thumbnail do Projeto](./MeuSite.png) 
+![Thumbnail do Projeto](./imagens/MeuSite.png)
 *(Dica: Pode substituir este caminho por um print do seu site)*
 
 ## 🔗 Link para o Projeto Online
